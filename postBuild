@@ -1,1 +1,3 @@
+conda install -c conda-forge nodejs
+
 jupyter nbextension enable --py widgetsnbextension
