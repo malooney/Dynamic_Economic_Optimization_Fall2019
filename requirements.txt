@@ -3,3 +3,4 @@ numpy==1.16.4
 pandas==0.24.2
 compecon==2019.7
 sympy==1.4
+ipywidgets==7.5.0
